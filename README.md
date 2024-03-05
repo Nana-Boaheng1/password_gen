@@ -29,7 +29,7 @@ A simple password generator application with an advanced graphical user interfac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone [https://github.com/yourusername/password-generator.git](https://github.com/Nana-Boaheng1/password_gen)
    ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ A simple password generator application with an advanced graphical user interfac
 3. Run the application:
 
    ```bash
-   python password_generator.py
+   python password_gen.py
    ```
 
 ## Usage
